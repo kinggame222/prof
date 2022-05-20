@@ -1,0 +1,18 @@
+tr td:first-of-type {
+    padding: 10px;
+    background-color: lightgrey;
+}
+table tr{
+    border: 1px solid black;
+}
+tr td{
+    border: 1px solid black;
+}
+.connexion{
+    border: 2px solid black;
+}
+.msgerreur{
+    color: black;
+    background-color: red;
+    font-size: 20px;
+}
