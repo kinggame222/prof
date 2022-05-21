@@ -182,5 +182,3 @@ function ajouterPanier($bd){
     $resultat = mysqli_query($bd, $sql); 
 
 }
-?>
-
